@@ -1,0 +1,7 @@
+Paso para el Diseño
+Paso 1: Creamos nuestro Brief -> Resumen de plan
+Paso 2: Creamos nuestro site Map -> Mapa del sitio de solución al brief
+Paso 3: Creamos nuestro wireframe -> diseño en blanco y negro en Desk y Tablet
+Paso 4: Creamos nuestro sketch -> diseño con tonos de color e iconografias en Desk y Tablet
+Paso 5: Definir componentes para evitar retrabajo
+Paso 6: No olvides mostrar tu trabajo y tener mente abierta para los comentarios y criticas todo comentario es bueno para mejorar, claro obviando los comentarios toxicos.
